@@ -23,7 +23,7 @@
 
 ![Site_1](images/Site_1.png)  
 
-Taking into account the example of above of Site 1's overall generation during the span of 3 years (2020, 2021, 2022): 
+Taking into account the above example of Site 1's overall generation during the span of 3 years (2020, 2021, 2022): 
 - Solar generation experiences a noticeable decline from June to September, occasionally starting as early as April or May. This decline coincides with the winter months in different parts of Australia where the data was recorded.
 Conversely, solar generation peaks from October to March with relatively stable results.
 - Data from 2022 is less comprehensive compared to previous years.
