@@ -8,6 +8,9 @@
 
 ## Exploration/Conclusions
 
+![Site 1](images/Site_1.jpg)
+
+
 
 ## Recommendations
 1) Conduct a detailed investigation into the outliers mentioned. A thorough understanding of the factors that contribute to their great performance can assist in enhancing strategies/procedures for other sites.
