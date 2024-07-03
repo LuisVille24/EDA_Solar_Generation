@@ -9,6 +9,11 @@
 ## Exploration/Conclusions
 
 
+## Recommendations
+1) Conduct a detailed investigation into the outliers mentioned. A thorough understanding of the factors that contribute to their great performance can assist in enhancing strategies/procedures for other sites.
+2) Develop strategies to mitigate the impact of seasonal trends on solar generation. They include optimizing energy storage capacity or implementing supplementary energy sources during periods of low solar generation.
+3) Use the correlation analysis performed above as well as site characteristics to optimize solar panel deployment and operation. Consider factors such as panel orientation and weather conditions to maximize energy generation.
+4) Improve the data collection to ensure accuracy for all years, with particular attention to gaps observed in 2022.
   
 
   
