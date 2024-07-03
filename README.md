@@ -8,7 +8,7 @@
 
 ## Exploration/Conclusions
 
-![Site 1](images/Site_1.jpg)
+![Heatmap](images/Heatmap.jpg)
 
 
 
