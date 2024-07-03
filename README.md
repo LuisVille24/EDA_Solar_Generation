@@ -3,8 +3,8 @@
 - The dataset includes approximately two years of PV solar energy generation data collected at 15-minute intervals. 
 - Link: https://www.kaggle.com/datasets/cdaclab/unisolar/data
   
-## Business Question
-- Is it possible to benchmark and/or enhance operational outcomes in the investigated solar sites?
+## Business Question/Goal
+- With the aid of Python (Numpy, Pandas, Matplotlib, Seaborn), perform EDA to find out whether it is possible to benchmark and/or enhance operational outcomes at the investigated solar sites. 
 
 ## Conclusions
 ### Correlation Analysis 
